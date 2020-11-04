@@ -1,9 +1,0 @@
-POST  http://localhost:5000/api/short
-
-Content-Type: application/json
-
-{
-    "url":"https://www.google.com/search?ei=YlugX4bNDfDHrgSFwZG4BA&q=amazon+prime&oq=am&gs_lcp=CgZwc3ktYWIQARgDMgcIABDJAxBDMgQIABBDMgQIABBDMgQIABBDMgoILhDHARCjAhBDMgQIABBDMgIILjICCAAyCAguEMcBEK8BMgIIAFAAWABg1m1oAHAAeACAAV2IAV2SAQExmAEAqgEHZ3dzLXdpesABAQ&sclient=psy-ab"
-
-}
-
